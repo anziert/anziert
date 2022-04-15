@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anziert
 - 👀 I’m interested in getting more information on how to get started with KeyCloak
 - 🌱 I’m currently learning KeyCloak for a client who needs KeyCloak implemented
-- 💞️ I’m a Program/Project Manager and looking to collaborate on project management
+- 💞️ I’m a Program/Project Manager and looking to collaborate on (tbd)
 - 📫 I may be reached via email at anciertanya@gmail.com
 
 <!---
